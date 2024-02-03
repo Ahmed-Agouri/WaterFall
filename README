@@ -1,0 +1,6 @@
+Developed a lightweight social media application encompassing fundamental functionalities.
+• Including user authentication, registration, post creation and deletion with associated captions, real-time tracking
+of likes, and the implementation of standard features inherent to social media platforms.
+• Designed and implemented a robust database architecture, excelling in CRUD operations, to ensure efficient data
+management and retrieval.
+• Developed a security feature One time password to validate a Users email when signing up.
